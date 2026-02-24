@@ -1,0 +1,20 @@
+# Sensitive data
+config.json
+
+# Local logs
+sentiment_log.txt
+current_cron.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
