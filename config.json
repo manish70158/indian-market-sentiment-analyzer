@@ -1,7 +1,7 @@
 {
-    "sender_email": "kumar.manish1689@gmail.com",
-    "app_password": "vzfxkwnuorxuburg",
-    "receiver_emails": [
+    "SENDER_EMAIL": "kumar.manish1689@gmail.com",
+    "APP_PASSWORD": "vzfxkwnuorxuburg",
+    "RECEIVER_EMAILS": [
         "a.manish1689@gmail.com"
     ]
 }
